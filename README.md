@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Gavin 👋
 
-<!--
-**opey9519/opey9519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS @ USF | Software Engineering & Cloud**
 
-Here are some ideas to get you started:
+I'm a Computer Science student at the University of South Florida
+building software with a focus on backend systems, cloud infrastructure,
+and distributed applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech
+
+`Java` `Python` `C#` `TypeScript` `AWS` `Terraform` `Docker` `Kubernetes`
+
+### 🚀 Highlighted Projects
+
+* ☁️ **Nexus** — Next.js · ASP.NET · PostgreSQL · AWS · Terraform 
+* 🏋️ **Kilo Access** — Azure · CI/CD · React · Flask
+* ⚡ **Pulse** (Coming Soon) — Spring Boot · Kafka · PostgreSQL · Kubernetes
+
+[LinkedIn](https://www.linkedin.com/in/gavin-wilson-ba6b67298/)
